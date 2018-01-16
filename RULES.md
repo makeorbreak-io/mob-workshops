@@ -11,4 +11,4 @@ The workshop must be comprised of a single session of up to 3 hours. Workshops a
 ### About Make or Break
 Make or Break is a 3-day tech event in the city of Porto, Portugal.
 You can join us on April 13, 14, and 15, to participate on our hackathon or workshops. The participation is free and there are prizes for the winners!
-More info at makeorbreak.io
+More info at [makeorbreak.io](https://makeorbreak.io)
